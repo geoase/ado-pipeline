@@ -1,0 +1,6 @@
+[submodule "ado-downloader"]
+	path = ado-downloader
+	url = https://github.com/geoase/ado-downloader.git
+[submodule "ado-downscaler"]
+	path = ado-downscaler
+	url = https://github.com/geoase/ado-downscaler.git
